@@ -1,0 +1,13 @@
+C:\Users\v.maheshwari\Documents\Visual Studio 2017\Projects\ProBillingV1.1\ProBilling.Web.Client\bin\Debug\netcoreapp2.0\ProBilling.Web.Client.deps.json
+C:\Users\v.maheshwari\Documents\Visual Studio 2017\Projects\ProBillingV1.1\ProBilling.Web.Client\bin\Debug\netcoreapp2.0\ProBilling.Web.Client.runtimeconfig.json
+C:\Users\v.maheshwari\Documents\Visual Studio 2017\Projects\ProBillingV1.1\ProBilling.Web.Client\bin\Debug\netcoreapp2.0\ProBilling.Web.Client.runtimeconfig.dev.json
+C:\Users\v.maheshwari\Documents\Visual Studio 2017\Projects\ProBillingV1.1\ProBilling.Web.Client\bin\Debug\netcoreapp2.0\ProBilling.Web.Client.dll
+C:\Users\v.maheshwari\Documents\Visual Studio 2017\Projects\ProBillingV1.1\ProBilling.Web.Client\bin\Debug\netcoreapp2.0\ProBilling.Web.Client.pdb
+C:\Users\v.maheshwari\Documents\Visual Studio 2017\Projects\ProBillingV1.1\ProBilling.Web.Client\obj\Debug\netcoreapp2.0\ProBilling.Web.Client.csprojResolveAssemblyReference.cache
+C:\Users\v.maheshwari\Documents\Visual Studio 2017\Projects\ProBillingV1.1\ProBilling.Web.Client\obj\Debug\netcoreapp2.0\ProBilling.Web.Client.csproj.CoreCompileInputs.cache
+C:\Users\v.maheshwari\Documents\Visual Studio 2017\Projects\ProBillingV1.1\ProBilling.Web.Client\obj\Debug\netcoreapp2.0\ProBilling.Web.Client.AssemblyInfoInputs.cache
+C:\Users\v.maheshwari\Documents\Visual Studio 2017\Projects\ProBillingV1.1\ProBilling.Web.Client\obj\Debug\netcoreapp2.0\ProBilling.Web.Client.AssemblyInfo.cs
+C:\Users\v.maheshwari\Documents\Visual Studio 2017\Projects\ProBillingV1.1\ProBilling.Web.Client\obj\Debug\netcoreapp2.0\ProBilling.Web.Client.dll
+C:\Users\v.maheshwari\Documents\Visual Studio 2017\Projects\ProBillingV1.1\ProBilling.Web.Client\obj\Debug\netcoreapp2.0\ProBilling.Web.Client.pdb
+C:\Users\v.maheshwari\Documents\Visual Studio 2017\Projects\ProBillingV1.1\ProBilling.Web.Client\bin\Debug\netcoreapp2.0\ProBilling.ReportGenerationLogic.dll
+C:\Users\v.maheshwari\Documents\Visual Studio 2017\Projects\ProBillingV1.1\ProBilling.Web.Client\bin\Debug\netcoreapp2.0\ProBilling.ReportGenerationLogic.pdb

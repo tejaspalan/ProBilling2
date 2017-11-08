@@ -1,0 +1,16 @@
+c:\users\v.maheshwari\documents\visual studio 2017\Projects\ProBillingV1.1\ProBillingV1.1\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\users\v.maheshwari\documents\visual studio 2017\Projects\ProBillingV1.1\ProBillingV1.1\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+c:\users\v.maheshwari\documents\visual studio 2017\Projects\ProBillingV1.1\ProBillingV1.1\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+c:\users\v.maheshwari\documents\visual studio 2017\Projects\ProBillingV1.1\ProBillingV1.1\bin\Debug\netcoreapp2.0\ProBillingV1.1.deps.json
+c:\users\v.maheshwari\documents\visual studio 2017\Projects\ProBillingV1.1\ProBillingV1.1\bin\Debug\netcoreapp2.0\ProBillingV1.1.runtimeconfig.json
+c:\users\v.maheshwari\documents\visual studio 2017\Projects\ProBillingV1.1\ProBillingV1.1\bin\Debug\netcoreapp2.0\ProBillingV1.1.runtimeconfig.dev.json
+c:\users\v.maheshwari\documents\visual studio 2017\Projects\ProBillingV1.1\ProBillingV1.1\bin\Debug\netcoreapp2.0\ProBillingV1.1.dll
+c:\users\v.maheshwari\documents\visual studio 2017\Projects\ProBillingV1.1\ProBillingV1.1\bin\Debug\netcoreapp2.0\ProBillingV1.1.pdb
+c:\users\v.maheshwari\documents\visual studio 2017\Projects\ProBillingV1.1\ProBillingV1.1\obj\Debug\netcoreapp2.0\ProBillingV1.1.csprojResolveAssemblyReference.cache
+c:\users\v.maheshwari\documents\visual studio 2017\Projects\ProBillingV1.1\ProBillingV1.1\obj\Debug\netcoreapp2.0\ProBillingV1.1.csproj.CoreCompileInputs.cache
+c:\users\v.maheshwari\documents\visual studio 2017\Projects\ProBillingV1.1\ProBillingV1.1\obj\Debug\netcoreapp2.0\ProBillingV1.1.AssemblyInfoInputs.cache
+c:\users\v.maheshwari\documents\visual studio 2017\Projects\ProBillingV1.1\ProBillingV1.1\obj\Debug\netcoreapp2.0\ProBillingV1.1.AssemblyInfo.cs
+c:\users\v.maheshwari\documents\visual studio 2017\Projects\ProBillingV1.1\ProBillingV1.1\obj\Debug\netcoreapp2.0\ProBillingV1.1.dll
+c:\users\v.maheshwari\documents\visual studio 2017\Projects\ProBillingV1.1\ProBillingV1.1\obj\Debug\netcoreapp2.0\ProBillingV1.1.pdb
+c:\users\v.maheshwari\documents\visual studio 2017\Projects\ProBillingV1.1\ProBillingV1.1\bin\Debug\netcoreapp2.0\ProBilling.ReportGenerationLogic.dll
+c:\users\v.maheshwari\documents\visual studio 2017\Projects\ProBillingV1.1\ProBillingV1.1\bin\Debug\netcoreapp2.0\ProBilling.ReportGenerationLogic.pdb

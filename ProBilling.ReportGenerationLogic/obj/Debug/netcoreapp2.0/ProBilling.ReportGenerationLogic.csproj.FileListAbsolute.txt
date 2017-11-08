@@ -1,0 +1,9 @@
+c:\users\v.maheshwari\documents\visual studio 2017\Projects\ProBillingV1.1\ProBilling.ReportGenerationLogic\bin\Debug\netcoreapp2.0\ProBilling.ReportGenerationLogic.deps.json
+c:\users\v.maheshwari\documents\visual studio 2017\Projects\ProBillingV1.1\ProBilling.ReportGenerationLogic\bin\Debug\netcoreapp2.0\ProBilling.ReportGenerationLogic.dll
+c:\users\v.maheshwari\documents\visual studio 2017\Projects\ProBillingV1.1\ProBilling.ReportGenerationLogic\bin\Debug\netcoreapp2.0\ProBilling.ReportGenerationLogic.pdb
+c:\users\v.maheshwari\documents\visual studio 2017\Projects\ProBillingV1.1\ProBilling.ReportGenerationLogic\obj\Debug\netcoreapp2.0\ProBilling.ReportGenerationLogic.csproj.CoreCompileInputs.cache
+c:\users\v.maheshwari\documents\visual studio 2017\Projects\ProBillingV1.1\ProBilling.ReportGenerationLogic\obj\Debug\netcoreapp2.0\ProBilling.ReportGenerationLogic.AssemblyInfoInputs.cache
+c:\users\v.maheshwari\documents\visual studio 2017\Projects\ProBillingV1.1\ProBilling.ReportGenerationLogic\obj\Debug\netcoreapp2.0\ProBilling.ReportGenerationLogic.AssemblyInfo.cs
+c:\users\v.maheshwari\documents\visual studio 2017\Projects\ProBillingV1.1\ProBilling.ReportGenerationLogic\obj\Debug\netcoreapp2.0\ProBilling.ReportGenerationLogic.dll
+c:\users\v.maheshwari\documents\visual studio 2017\Projects\ProBillingV1.1\ProBilling.ReportGenerationLogic\obj\Debug\netcoreapp2.0\ProBilling.ReportGenerationLogic.pdb
+C:\Users\v.maheshwari\Documents\Visual Studio 2017\Projects\ProBillingV1.1\ProBilling.ReportGenerationLogic\obj\Debug\netcoreapp2.0\ProBilling.ReportGenerationLogic.csprojResolveAssemblyReference.cache
